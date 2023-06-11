@@ -1,15 +1,13 @@
 ## vexgratia
-<p align="left">
+<p align="center">
 	<img alt="General Stats"  width="500"
-	src="https://github-readme-stats.vercel.app/api?username=vexgratia&theme=transparent&hide_border=false&include_all_commits=true&count_private=false"/>
-</p>
-<p align="left">
-	<img alt="Commit Stats"  width="500"
-	src="https://github-readme-streak-stats.herokuapp.com/?user=vexgratia&theme=transparent&hide_border=false"/>
-</p>
-<p align="left">
+	src="https://github-readme-stats.vercel.app/api?username=vexgratia&theme=transparent&hide_border=true&include_all_commits=true&count_private=false"/>
 	<img alt="Languages" width="500"
-	src="https://github-readme-stats.vercel.app/api/top-langs/?username=vexgratia&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+	src="https://github-readme-stats.vercel.app/api/top-langs/?username=vexgratia&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/>
+</p>
+<p align="center">
+	<img alt="Commit Stats"  width="600"
+	src="https://github-readme-streak-stats.herokuapp.com/?user=vexgratia&theme=transparent&hide_border=true"/>
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
